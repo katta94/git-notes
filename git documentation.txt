@@ -492,6 +492,23 @@ Already up-to-date.
 
 
 
+Check all avalible branches at Local and Remote 
+git branch -a
+	you will see like below first two are local and remaining are remote branches.  
+	  develop
+	* master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/develop
+  remotes/origin/master
+  
+  use below command to create new branch develop locally, getting content from develop branch of remote  
+  	git checkout -b develop remotes/origin/develop
+
+		
+ 
+
+
+
 
 
 
