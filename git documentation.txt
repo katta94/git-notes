@@ -134,9 +134,11 @@ how to add a file to local_repo area?
   git commit -m "commit message"
 
 
-how can i see commit messages?
+how can i see perviious commit messages?
  	
 git log
+
+git show
 
 commit :97ee0928a45967554354136c142e95b104267c96
 
