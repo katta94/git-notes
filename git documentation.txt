@@ -65,6 +65,10 @@ where it cannot be used?
  which platform it supports?
   windows , linux , solaris, mac
 
+When you install WSL - Windows Subsytem for Linux on your PC. 
+Home directory - file system default loaction for wsl is /home/wsluser
+you can access windows file sytem via WSL with cd to /mnt/c/users/
+
 how to install git?
    
 linux os
